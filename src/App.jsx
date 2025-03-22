@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Provider } from 'react-redux';
 import { store } from './app/store';
-import Layout from './components/layout/Layout';
+import Layout from './components/layout/layout';
 import ActivityFeed from './features/activities/ActivityFeed';
 import Dashboard from './features/dashboard/Dashboard';
 import UserList from './features/users/UserList';
