@@ -1,0 +1,10 @@
+.user-list {
+    max-width: 800px;
+    margin: 20px;
+    padding: 20px;
+}
+  
+  .user-list h3 {
+    text-align: center;
+    margin-bottom: 15px;
+  }

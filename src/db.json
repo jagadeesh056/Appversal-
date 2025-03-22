@@ -1,0 +1,30 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "points": 1500,
+        "avatar": "https://via.placeholder.com/40",
+        "activities": [],
+        "redemptions": []
+      }
+    ],
+    "activities": [
+      {
+        "id": 1,
+        "type": "task",
+        "title": "Completed onboarding",
+        "pointsEarned": 20,
+        "date": "2023-07-15T09:00:00Z"
+      }
+    ],
+    "rewards": [
+      {
+        "id": 1,
+        "name": "$10 Gift Card",
+        "pointsCost": 1000,
+        "image": "https://via.placeholder.com/150"
+      }
+    ],
+    "redemptions": []
+  }
